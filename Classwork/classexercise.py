@@ -5,4 +5,3 @@ if name:
 	print('hello')
 	print('techblazers')
 
-age = int(input('enter age: '))
